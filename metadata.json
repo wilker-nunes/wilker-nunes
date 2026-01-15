@@ -1,0 +1,7 @@
+{
+  "name": "Rooftop Vision Builder",
+  "description": "An AI-powered architectural visualization tool that transforms simple rooftop models into hyper-realistic construction stages, from foundation to final render.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
